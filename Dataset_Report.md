@@ -10,26 +10,3 @@ This dataset provides a colourized synthesized PCB dataset, with the 6 major def
 ## Structure
 The dataset is divided into 4 part, each part is placed inside a folder: Annotations, images, PCB_USED, rotation.
 ![alt text](image.png)
-PCB_DATASET
-├───Annotations
-│   ├───Missing_hole
-│   ├───Mouse_bite
-│   ├───Open_circuit
-│   ├───Short
-│   ├───Spur
-│   └───Spurious_copper
-├───images
-│   ├───Missing_hole
-│   ├───Mouse_bite
-│   ├───Open_circuit
-│   ├───Short
-│   ├───Spur
-│   └───Spurious_copper
-├───PCB_USED
-└───rotation
-    ├───Missing_hole_rotation
-    ├───Mouse_bite_rotation
-    ├───Open_circuit_rotation
-    ├───Short_rotation
-    ├───Spurious_copper_rotation
-    └───Spur_rotation
