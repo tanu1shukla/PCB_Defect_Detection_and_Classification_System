@@ -8,5 +8,8 @@ The PCB is a complex device, and it has become increasingly difficult to detect 
 This dataset provides a colourized synthesized PCB dataset, with the 6 major defects in PCBs classified for model training.
 
 ## Structure
-The dataset is divided into 4 part, each part is placed inside a folder: Annotations, images, PCB_USED, rotation.
+The dataset is divided into 4 part, each part is placed inside a folder. The folders are named Annotations, images, PCB_USED and rotation.
+
 ![alt text](image.png)
+<br>
+- Annotations: This folder contains 6 folders, Missing
