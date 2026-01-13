@@ -12,10 +12,7 @@ The dataset is divided into 4 part, each part is placed inside a folder. The fol
 
 ![alt text](image.png)
 <br>
-- Annotations: This folder contains 6 folders:
-    1. Missing_hole
-    2. Mouse_bite
-    3. Open_circuit
-    4. Short
-    5. Spur 
-    6. Spurious_copper
+- Annotations: This folder contains 6 folders each of which contain XML files for corresponding images.
+- images: This folder contains 6 folders with the same names, each of the folders contain images with defects and at the the same position as the templates.
+- PCB_USED: THis folder contains the 12 template images used in the dataset.
+- rotation: this folder 

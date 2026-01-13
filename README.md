@@ -6,9 +6,9 @@ Project Objectives:
 - Employ reference-based image subtraction, contour extraction, and CNN-based classification to identify and label defects. 
 - Develope a fully functional frontend web application to allow users to upload PCB images and receive labeled outputs highlighting defects.
 
-Tech Stack:
-Image Operations: OpenCV and Numpy
-Neural Network Libraries: PyTorch
+Tech Stack: <br>
+Image Operations: OpenCV and Numpy<br>
+Neural Network Libraries: PyTorch<br>
 API creation: FastAPI
 
 Evaluation Metrics: Accuracy, Loss, Confusion Matrix
